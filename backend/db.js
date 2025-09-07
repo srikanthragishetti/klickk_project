@@ -1,4 +1,4 @@
-// backend/db.js
+
 import sqlite3 from "sqlite3"; 
 sqlite3.verbose(); //  Enables detailed error logging and debugging information for SQLite operations.
 
