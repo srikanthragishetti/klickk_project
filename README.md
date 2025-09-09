@@ -1,3 +1,4 @@
+REGISTER <LOGIN & LOGOUT PAGE 
 klickk project code contains frontend and backend folder in github
 download the code from git hub in the Personal computer 
 open the downloaded Klickk project in vs code editor
